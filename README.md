@@ -1,16 +1,20 @@
-### Hi there 👋
+### boas vindas ao meu perfil 😊
 
-<!--
-**victorfanartxd/victorfanartxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Victor Soares 
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Gosto de desenhar 
+- Aqui vou compartilhar os meus projetos e meu desenvolvimento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Voce pode entrar em contato 📫
+
+  soares.silva.victor@escola.pr.gov.br
+  
+  instagran: victor_fanart_xd
+
+
+![](https://media.tenor.com/RbmvWMGH2fsAAAAd/jojo-anime.gif)
+
+
+
+
