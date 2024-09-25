@@ -3,7 +3,7 @@
 Meu nome e Victor Soares 
 
 - Estou estudando no [Alura](https://www.alura.com.br)
-- Gosto de desenhar 
+- Sou desiner aprendiz e desenhista digital e fisico
 - Aqui vou compartilhar os meus projetos e meu desenvolvimento
 
   ### Voce pode entrar em contato 📫
